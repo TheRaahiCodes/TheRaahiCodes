@@ -4,6 +4,8 @@
 
 I'm a BCA student focused on learning software development, building real-world projects, and improving my problem-solving skills.
 
+BCA student exploring the world of technology. Currently building my foundation through Web Development, programming, and Data Structures & Algorithms. My long-term goal is to move into Artificial Intelligence and Machine Learning, while continuously building real-world projects and improving my problem-solving skills.
+
 ## 🚀 Currently
 
 - 🌱 Learning JavaScript and Data Structures & Algorithms
@@ -37,4 +39,5 @@ To become a strong software developer by continuously learning, building, and so
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/rahi-panchtilak-209b002b3/)
+- [LeetCode](https://leetcode.com/u/RahiPanchtilak/)
 - [X](https://x.com/TheRaahiCodes)
